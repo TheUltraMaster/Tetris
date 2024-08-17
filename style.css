@@ -1,0 +1,17 @@
+
+html, body {
+  height: 100%;
+  margin: 0;
+  
+}
+
+body {
+    background: radial-gradient(circle, rgba(205,32,26,0.8543066884957108) 0%, rgba(72,190,39,1) 41%, rgba(249,255,0,0.8599089293920693) 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+canvas {
+  border: 1px solid white;
+}
